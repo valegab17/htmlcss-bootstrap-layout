@@ -1,0 +1,1 @@
+Aggiornamento 21:49 dopo aver capito come utilizzare sia sm lg e md inizio ad andare per gradi: lg - md -sm 
